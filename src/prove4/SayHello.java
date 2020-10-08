@@ -10,5 +10,6 @@ public class SayHello {
 	// write your code here
         SayHello hello = new SayHello();
         hello.helloIsaac();
+        System.out.println("Hello, Isaac. My name is Erik.");
     }
 }
